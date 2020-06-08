@@ -1,6 +1,7 @@
 # string-parse
 Perl script to print longest word in a sentence and its length and shortest word in a sentence and its length
 print_min_max_strings.pl
+   
    print_min_max_strings.pl is a perl script to print longest word in a sentence and its length and shortest word in a sentence and its length
 
 Compilation: 
