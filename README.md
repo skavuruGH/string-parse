@@ -8,7 +8,7 @@ Compilation:
 Usage
     perl print_min_max_strings.pl The cow jumped over the moon
 
-Assumptions : Should Pass the string as an input at the coomand line 
+Assumptions : Should Pass the string as an input at the command line 
 
 Unit Test : 
            Input: 
